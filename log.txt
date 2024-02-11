@@ -2164,3 +2164,169 @@
 1707652821156 POST ::1 /users
 
 1707652850966 POST ::1 /users
+
+1707654097413 POST ::1 /users/login
+
+1707654845593 POST ::1 /users/login
+
+1707654854645 POST ::1 /users/login
+
+1707654880261 POST ::1 /users/login
+
+1707654940768 GET ::1 /users
+
+1707654969825 POST ::1 /users/login
+
+1707655009741 POST ::1 /users/login
+
+1707655050647 POST ::1 /users/login
+
+1707655073066 POST ::1 /users/login
+
+1707655123638 POST ::1 /users/login
+
+1707655207190 POST ::1 /users/login
+
+1707655220794 POST ::1 /users/login
+
+1707656344828 GET ::1 /
+
+1707656356236 GET ::1 /users/login
+
+1707656393969 POST ::1 /users/login
+
+1707656621567 GET ::1 /expense
+
+1707656622443 GET ::1 /favicon.ico
+
+1707656697074 POST ::1 /users/login
+
+1707656792450 POST ::1 /users/login
+
+1707656812126 POST ::1 /users/login
+
+1707656829396 GET ::1 /category
+
+1707656842796 GET ::1 /users/login
+
+1707657115040 POST ::1 /users/login
+
+1707657350372 POST ::1 /users/login
+
+1707657355023 GET ::1 /users/login
+
+1707657355572 GET ::1 /users/login
+
+1707657357469 GET ::1 /users/login
+
+1707657422267 GET ::1 /users/login
+
+1707657425700 POST ::1 /users/login
+
+1707657456622 POST ::1 /users/login
+
+1707657474577 GET ::1 /expense
+
+1707657514252 GET ::1 /category
+
+1707657514258 GET ::1 /category
+
+1707659228717 GET ::1 /category
+
+1707659229385 GET ::1 /favicon.ico
+
+1707659262097 POST ::1 /users/login
+
+1707659281250 GET ::1 /users/login
+
+1707659297092 POST ::1 /users/login
+
+1707659395584 POST ::1 /users/login
+
+1707659459422 POST ::1 /users/login
+
+1707659480447 POST ::1 /users/login
+
+1707659507161 POST ::1 /users/login
+
+1707659529294 POST ::1 /users/login
+
+1707661069614 POST ::1 /expense
+
+1707661082320 POST ::1 /users/login
+
+1707661088581 POST ::1 /expense
+
+1707661414963 POST ::1 /expense
+
+1707661427082 POST ::1 /users/login
+
+1707661445607 POST ::1 /expense
+
+1707661573541 POST ::1 /expense
+
+1707661577139 POST ::1 /users/login
+
+1707661582936 POST ::1 /expense
+
+1707661632521 POST ::1 /users/login
+
+1707661638793 GET ::1 /expense
+
+1707661679592 GET ::1 /expense
+
+1707661700040 GET ::1 /expense
+
+1707661720980 POST ::1 /users/login
+
+1707661724991 GET ::1 /expense
+
+1707661888353 GET ::1 /expense
+
+1707661935235 GET ::1 /expense
+
+1707661939277 POST ::1 /users/login
+
+1707661943461 GET ::1 /expense
+
+1707662009832 POST ::1 /expense
+
+1707662021004 GET ::1 /expense
+
+1707662048030 POST ::1 /users/login
+
+1707662054625 GET ::1 /expense
+
+1707662084639 POST ::1 /users/login
+
+1707662088514 GET ::1 /expense
+
+1707662098389 POST ::1 /expense
+
+1707662102029 GET ::1 /expense
+
+1707662150836 POST ::1 /users/login
+
+1707662168389 GET ::1 /expense
+
+1707662572461 POST ::1 /users/login
+
+1707662576803 GET ::1 /expense
+
+1707662628967 POST ::1 /users/login
+
+1707662632160 GET ::1 /expense
+
+1707662732588 POST ::1 /users/login
+
+1707662736910 GET ::1 /expense
+
+1707662773764 POST ::1 /users
+
+1707662786676 POST ::1 /users/login
+
+1707662791328 GET ::1 /expense
+
+1707662814980 POST ::1 /expense
+
+1707662820285 GET ::1 /expense

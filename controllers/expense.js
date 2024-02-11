@@ -2,21 +2,21 @@ const { expenseModel } = require("../models/expense");
 const { handleGetCategoryName } = require('../middlewares/middlewares');
 
 const handleGetAllExpense = (req, res) => {
-    expenseModel.find({})
+    expenseModel.find({ createdBy: req.user._id })
         .then((expenseList) => { return res.send(expenseList) })
 }
 
 const handleCreateNewExpense = async (req, res) => {    
     //middleware to get category name using ID
     const categoryName = await handleGetCategoryName(req.body.category);
-
     expenseModel.create({
         title: req.body.title,
         amount: req.body.amount,
         category: req.body.category,
         category_name:categoryName,
         payment_method: req.body.payment_method,
-        note: req.body.note
+        note: req.body.note,
+        createdBy: req.user._id
     }).then((result) => {
         return res.sendStatus(201);
     })

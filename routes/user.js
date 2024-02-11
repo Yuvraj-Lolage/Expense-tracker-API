@@ -2,9 +2,11 @@ const express = require('express');
 const userRouter = express.Router();
 
 
-const { handleCreateNewUser } = require('../controllers/user');
-userRouter.route('/')
-    .post(handleCreateNewUser)
+const { handleUserLogin, handleUserSignup } = require('../controllers/user');
+userRouter.post("/",handleUserSignup);
+userRouter.post("/login", handleUserLogin);
+
+    
 
 
 module.exports = {
