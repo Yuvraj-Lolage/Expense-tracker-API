@@ -13,6 +13,10 @@ const expenseSchema = new mongoose.Schema({
         type:mongoose.SchemaTypes.ObjectId,
         required:true
     },
+    category_name:{
+        type:String,
+        required:true
+    },
     payment_method:{
         type:String,
         required:true
